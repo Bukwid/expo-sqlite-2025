@@ -1,7 +1,3 @@
-Certainly! Below is a `README.md` file that explains how to set up and use the SQLite database in your Expo React Native project. It includes an overview of the code, setup instructions, and explanations of key functions.
-
----
-
 # SQLite Example with Expo React Native
 
 This is a simple React Native app that demonstrates how to use SQLite for local data storage in an Expo project. The app allows you to add, view, and delete users from a SQLite database.
